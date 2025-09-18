@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+img{
+    width: 40px;
+    vertical-align: middle;
+}
+#container{
+    border: 3px solid rgb(62, 130, 182);
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+}
+header{
+    padding: 10px;
+}
+nav a{
+    margin: 10px;
+    color: black;
+    font-weight: bold
+}
+main{
+    display: flex;
+   justify-content: center;
+}
+#news{
+    width: 20%;
+    border-right: 3px solid rgb(48, 132, 196);
+}
+#annoucements{
+    width: 20%;
+}
+a{
+    color: black;
+}
